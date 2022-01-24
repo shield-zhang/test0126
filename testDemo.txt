@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 iiiiiiisiasaasasasa  w010w111
+=======
+iiiiiiisiasaasasasa  010aaa111
+>>>>>>> hotfix
 iiiiiiisiasaasasasa 3432
 iiiiiiisiasaasasasaaaaaw
 iiiiiiisiasaasasasa
